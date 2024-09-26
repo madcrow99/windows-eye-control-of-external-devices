@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="FPS_game_controller.Starship"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FPS_game_controller"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:g="using:Microsoft.Toolkit.Uwp.Input.GazeInteraction"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+           
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            
+            
+        </Grid.ColumnDefinitions>
+        <Button x:ConnectionId='2' Grid.Row="0" Grid.Column="0" g:GazeInput.Interaction="Enabled" x:Name="LLL" Content="" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='3' Grid.Row="0" Grid.Column="1" g:GazeInput.Interaction="Enabled" x:Name="FFF" Content="" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='4' Grid.Row="0" Grid.Column="2" g:GazeInput.Interaction="Enabled" x:Name="BBB" Content="" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='5' Grid.Row="0" Grid.Column="3" g:GazeInput.Interaction="Enabled" x:Name="RRR" Content="" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+
+        <Button x:ConnectionId='6' Grid.Row="1" Grid.Column="0" g:GazeInput.Interaction="Enabled" x:Name="LL" Content="" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='7' Grid.Row="1" Grid.Column="1" g:GazeInput.Interaction="Enabled" x:Name="FF" Content="" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='8' Grid.Row="1" Grid.Column="2" g:GazeInput.Interaction="Enabled" x:Name="BB" Content="" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='9' Grid.Row="1" Grid.Column="3" g:GazeInput.Interaction="Enabled" x:Name="RR" Content="" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+
+        <Button x:ConnectionId='10' Grid.Row="2" Grid.Column="0" g:GazeInput.Interaction="Enabled" x:Name="MouseLeft" Content="Left Cick" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='11' Grid.Row="2" Grid.Column="1" g:GazeInput.Interaction="Enabled" x:Name="MouseRight" Content="Right Click" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='12' Grid.Row="2" Grid.Column="2" g:GazeInput.Interaction="Enabled" x:Name="g" Content="g" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='13' Grid.Row="2" Grid.Column="3" g:GazeInput.Interaction="Enabled" x:Name="LatchCommand" Content="Latch" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+
+        <Button x:ConnectionId='14' Grid.Row="3" Grid.Column="0" g:GazeInput.Interaction="Enabled" x:Name="Gameplay" Content="Gameplay" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="0"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='15' Grid.Row="3" Grid.Column="3" g:GazeInput.Interaction="Enabled" x:Name="Shift" Content="Boost" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='16' Grid.Row="3" Grid.Column="2" g:GazeInput.Interaction="Enabled" x:Name="r" Content="Target" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+        <Button x:ConnectionId='17' Grid.Row="3" Grid.Column="1" g:GazeInput.Interaction="Enabled" x:Name="e" Content="E" Background="Transparent" BorderBrush="Black" BorderThickness="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         g:GazeInput.MaxDwellRepeatCount="400"  g:GazeInput.RepeatDelayDuration="00:00:00.01000000" g:GazeInput.FixationDuration="00:00:00.00500000"  Margin="5" />
+
+    </Grid>
+</Page>
+

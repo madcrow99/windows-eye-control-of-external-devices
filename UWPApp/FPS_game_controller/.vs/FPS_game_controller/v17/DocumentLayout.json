@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|c:\\users\\mjcro\\visualstudioprojects\\fps_game_controller\\buttoncommandmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:buttoncommandmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\roblox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:roblox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\gameplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:gameplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\starship.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:starship.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\shooting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:shooting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:misc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\roblox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:roblox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\misc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:misc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code",
+      "RelativeMoniker": "D:0:0:{BAE0747E-FDD0-477D-A2D8-B348E2BC0341}|FPS_game_controller.csproj|solutionrelative:package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAF4AAAAA8v////8QwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:49:22.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gameplay.xaml",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Gameplay.xaml",
+              "RelativeDocumentMoniker": "Gameplay.xaml",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Gameplay.xaml",
+              "RelativeToolTip": "Gameplay.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T21:57:59.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shooting.xaml",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Shooting.xaml",
+              "RelativeDocumentMoniker": "Shooting.xaml",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Shooting.xaml",
+              "RelativeToolTip": "Shooting.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T23:04:30.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gameplay.cs",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Gameplay.cs",
+              "RelativeDocumentMoniker": "Gameplay.cs",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Gameplay.cs",
+              "RelativeToolTip": "Gameplay.cs",
+              "ViewState": "AQIAABMAAACAnZmZmRkmwB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:04:54.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Starship.cs",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Starship.cs",
+              "RelativeDocumentMoniker": "Starship.cs",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Starship.cs",
+              "RelativeToolTip": "Starship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:14:44.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shooting.cs",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Shooting.cs",
+              "RelativeDocumentMoniker": "Shooting.cs",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Shooting.cs",
+              "RelativeToolTip": "Shooting.cs",
+              "ViewState": "AQIAAJgAAAAAQGZmZmb0v7UAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:14:27.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "misc.cs",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\misc.cs",
+              "RelativeDocumentMoniker": "misc.cs",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\misc.cs",
+              "RelativeToolTip": "misc.cs",
+              "ViewState": "AQIAABcAAACAy5mZmZkOwB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:04:54.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T23:04:54.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "roblox.xaml",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\roblox.xaml",
+              "RelativeDocumentMoniker": "roblox.xaml",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\roblox.xaml",
+              "RelativeToolTip": "roblox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T23:04:54.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ButtonCommandMapper.cs",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\ButtonCommandMapper.cs",
+              "RelativeDocumentMoniker": "ButtonCommandMapper.cs",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\ButtonCommandMapper.cs",
+              "RelativeToolTip": "ButtonCommandMapper.cs",
+              "ViewState": "AQIAAB8AAACgYGZmZiYwwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:04:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Starship.xaml",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Starship.xaml",
+              "RelativeDocumentMoniker": "Starship.xaml",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Starship.xaml",
+              "RelativeToolTip": "Starship.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T23:48:10.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "roblox.cs",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\roblox.cs",
+              "RelativeDocumentMoniker": "roblox.cs",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\roblox.cs",
+              "RelativeToolTip": "roblox.cs",
+              "ViewState": "AQIAAAIAAACAAQAAAIAvwB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:04:54.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "misc.xaml",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\misc.xaml",
+              "RelativeDocumentMoniker": "misc.xaml",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\misc.xaml",
+              "RelativeToolTip": "misc.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T23:04:54.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "Package.appxmanifest",
+              "ToolTip": "C:\\Users\\mjcro\\VisualStudioProjects\\FPS_game_controller\\Package.appxmanifest",
+              "RelativeToolTip": "Package.appxmanifest",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwC4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-05-11T23:04:54.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
